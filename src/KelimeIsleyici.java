@@ -12,6 +12,7 @@ public class KelimeIsleyici {
         return false;
     }
 
+
     public static List<String> findFirstTwoWithRepeats(String[] words) {
         List<String> result = new ArrayList<>(2);
         for (String w : words) {
