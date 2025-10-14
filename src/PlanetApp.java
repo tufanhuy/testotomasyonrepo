@@ -1,6 +1,6 @@
 public class PlanetApp {
 
-    // --- Enum Definition ---
+    // --- Enum Definition ----
     public enum Planet {
         MERCURY ("Mercury", 1, 58.0, 2439.7, 1407.5),
         VENUS   ("Venus",   2, 108.0, 6051.8, 5832.5),
